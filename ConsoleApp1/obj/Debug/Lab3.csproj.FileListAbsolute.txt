@@ -1,0 +1,7 @@
+D:\2023-2024\Sem_2\C#\Day270224\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\2023-2024\Sem_2\C#\Day270224\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\2023-2024\Sem_2\C#\Day270224\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\2023-2024\Sem_2\C#\Day270224\ConsoleApp1\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\2023-2024\Sem_2\C#\Day270224\ConsoleApp1\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\2023-2024\Sem_2\C#\Day270224\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\2023-2024\Sem_2\C#\Day270224\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
